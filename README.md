@@ -9,4 +9,4 @@ HTML ve CSS kullanıldı
 
 <h2> ekran görüntüsü </h2>
 
-![](Ahmetflix.mp4)
+![](Ahmetflix.gif)
